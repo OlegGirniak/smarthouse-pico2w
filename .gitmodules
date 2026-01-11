@@ -1,0 +1,3 @@
+[submodule "pico2w-sensor-node-fw"]
+	path = pico2w-sensor-node-fw
+	url = git@github.com:OlegGirniak/pico2w-sensor-node-fw.git
